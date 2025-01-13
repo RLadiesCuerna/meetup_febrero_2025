@@ -21,7 +21,7 @@ Su principal interés es la bioinformática y el desarrollo de software para an�
 - Si lo prefieres, puedes usar el comando `git clone < url_repositorio > ` desde tu terminal para clonar el repositorio.
 
 - Link a las diapositivas: https://rladiescuerna.github.io/meetup_febrero_2025/slides.html
-- 
+  
 ## Requerimientos de software
 
 - R >=4.0 y RStudio
